@@ -1,3 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/t1wzAQdE)
-# Project6
-The project specification is available on Blackboard
+# Sudoku Solver
+
+# Build and Run
+1) Clone the repository
+2) Upload a ```.csv``` puzzle file into the source folder (puzzle1.csv example given)
+3) Test the ```.csv``` file in ```main.cpp```
+4) Run the executable files:
+```make rebuild```
+```./main```
+
+
